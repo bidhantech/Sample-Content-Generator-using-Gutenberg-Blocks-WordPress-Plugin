@@ -17,7 +17,6 @@ It can be really hard to guess how your website will look after you write new po
 But you may not have the content ready for your new website yet, so it becomes a problem.
 That's why I have developed this plugin which gives you sample content in the Gutenberg editor of your WordPress website using Gutenberg Blocks.
 
-
 == Installation ==
 
 1. In your admin panel, go to Appearance > Plugins and click the Add New button.
@@ -29,8 +28,6 @@ That's why I have developed this plugin which gives you sample content in the Gu
 = How to use Sample Content Generator plugin? =
 
 After activating the plugin, you can use the sample content blocks in the Gutenberg Editor.
-
-
 
 == Changelog ==
 
