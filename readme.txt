@@ -21,7 +21,7 @@ That's why I have developed this plugin which gives you sample content in the Gu
 == Installation ==
 
 1. In your admin panel, go to Appearance > Plugins and click the Add New button.
-2. Click Upload Plugin and Choose File, then select the theme's .zip file. Click Install Now.
+2. Click Upload Plugin and Choose File, then select the plugin's .zip file. Click Install Now.
 3. Click Activate to use the plugin right away.
 
 == Frequently Asked Questions ==
