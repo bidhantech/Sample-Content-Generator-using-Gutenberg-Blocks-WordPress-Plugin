@@ -49,9 +49,5 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-* Dashicons https://developer.wordpress.org/resource/dashicons/#menu-alt3, (C) 2012-2020 Automattic, Inc., 
+* Dashicons https://developer.wordpress.org/resource/dashicons/ (C) 2012-2020 Automattic, Inc., 
 	[Dashicons is licensed under GPLv2, or any later version with font exception.](https://www.gnu.org/licenses/gpl-2.0.html)
-
-** Code Reference **
-
-* Code Reference By WordPress [https://developer.wordpress.org/reference/]
