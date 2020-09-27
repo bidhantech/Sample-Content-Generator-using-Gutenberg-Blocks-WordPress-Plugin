@@ -34,7 +34,7 @@ After activating the plugin, you can use the sample content blocks in the Gutenb
 
 ## Changelog
 
-#### 0.9 - September 23, 2020
+##### 0.9 - September 23, 2020
 * Initial release
 
 
