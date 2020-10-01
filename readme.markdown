@@ -1,12 +1,12 @@
 # Sample Content Generator - using Gutenberg Blocks
 
-Contributors: bidhantech
+###### Contributors: bidhantech
 
-Requires at least: 4.5
-Tested up to: 5.4
-Requires PHP: 5.6
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+###### Requires at least: 4.5
+###### Tested up to: 5.4
+###### Requires PHP: 5.6
+###### License: GNU General Public License v2 or later
+###### License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A Sample Content generator plugin which uses Gutenberg Blocks & does not use the traditional lorem ipsum texts.
 
